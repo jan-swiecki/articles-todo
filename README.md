@@ -7,3 +7,5 @@
 * https://github.com/ncatlin/rgat
 * https://www.insinuator.net/2016/10/how-to-become-part-of-an-iot-botnet/
 * [DONE] https://engineering.klarna.com/how-removing-caching-improved-mobile-performance-by-25-52a17cc339a2#.37vrtwmvc ux ui performance
+* https://hackernoon.com/a-web-service-written-in-pure-bash-2af847902df1#.846wzbm29
+* [DONE] https://marxsoftware.blogspot.fr/
