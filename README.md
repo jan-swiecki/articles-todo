@@ -9,3 +9,4 @@
 * [DONE] https://engineering.klarna.com/how-removing-caching-improved-mobile-performance-by-25-52a17cc339a2#.37vrtwmvc ux ui performance
 * https://hackernoon.com/a-web-service-written-in-pure-bash-2af847902df1#.846wzbm29
 * [DONE] https://marxsoftware.blogspot.fr/
+* https://redditblog.com/2017/1/17/caching-at-reddit/
