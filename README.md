@@ -10,3 +10,4 @@
 * https://hackernoon.com/a-web-service-written-in-pure-bash-2af847902df1#.846wzbm29
 * [DONE] https://marxsoftware.blogspot.fr/
 * https://redditblog.com/2017/1/17/caching-at-reddit/
+* [DONE] https://www.blockloop.io/mastering-bash-and-terminal
