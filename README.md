@@ -11,3 +11,4 @@
 * [DONE] https://marxsoftware.blogspot.fr/
 * https://redditblog.com/2017/1/17/caching-at-reddit/
 * [DONE] https://www.blockloop.io/mastering-bash-and-terminal
+* Richard Feynman and computation https://pdfs.semanticscholar.org/7fb6/50845888348f8ba95c960bde1c9511562a62.pdf
