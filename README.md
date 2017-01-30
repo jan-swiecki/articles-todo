@@ -13,3 +13,4 @@
 * [7 top responses DONE] https://www.quora.com/What-does-a-CEO-of-a-start-up-do
 * https://medium.com/type-a-breakfast-notes/4-time-management-principles-that-explain-why-type-a-breakfast-works-965bc408afb#.teu5swh3r
 * [DONE] https://betterexplained.com/articles/understanding-the-pareto-principle-the-8020-rule/ quick thoughts: this correlates to Lean: we should iterate with 20% of effort/80% work-done and not more. Summary: plan for 20% of task; 80% of "done" is accomplished in 20% of time #productivity #time #pareto
+* [DONE] https://betterexplained.com/articles/the-rule-of-72/
