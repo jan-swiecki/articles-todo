@@ -16,3 +16,4 @@
 * [DONE] https://betterexplained.com/articles/the-rule-of-72/
 * https://www.youtube.com/watch?v=eis11j_iGMs Lambda Calculus
 * [DONE] https://hackernoon.com/the-programmers-guide-to-booking-a-plane-11e37d610045#.gznxcba43
+* [DONE] https://www.youtube.com/watch?v=3IqtmUscE_U #angular #zonejs
