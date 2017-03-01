@@ -18,3 +18,4 @@
 * [DONE] https://hackernoon.com/the-programmers-guide-to-booking-a-plane-11e37d610045#.gznxcba43
 * [DONE] https://www.youtube.com/watch?v=3IqtmUscE_U #angular #zonejs
 * [DONE] http://thestartuptoolkit.com/blog/2013/02/equity-basics-vesting-cliffs-acceleration-and-exits/ #startups #vesting
+* http://4weekstolaunch.com/4-weeks-to-launchlaunch/
