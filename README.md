@@ -19,3 +19,4 @@
 * [DONE] https://www.youtube.com/watch?v=3IqtmUscE_U #angular #zonejs
 * [DONE] http://thestartuptoolkit.com/blog/2013/02/equity-basics-vesting-cliffs-acceleration-and-exits/ #startups #vesting
 * http://4weekstolaunch.com/4-weeks-to-launchlaunch/
+* [DONE] http://blog.cleancoder.com/uncle-bob/2017/03/03/TDD-Harms-Architecture.html #tdd #design #architecture
