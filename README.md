@@ -20,3 +20,4 @@
 * [DONE] http://thestartuptoolkit.com/blog/2013/02/equity-basics-vesting-cliffs-acceleration-and-exits/ #startups #vesting
 * http://4weekstolaunch.com/4-weeks-to-launchlaunch/
 * [DONE] http://blog.cleancoder.com/uncle-bob/2017/03/03/TDD-Harms-Architecture.html #tdd #design #architecture
+* [DONE] https://8thlight.com/blog/uncle-bob/2012/08/13/the-clean-architecture.html
