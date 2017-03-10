@@ -21,3 +21,4 @@
 * http://4weekstolaunch.com/4-weeks-to-launchlaunch/
 * [DONE] http://blog.cleancoder.com/uncle-bob/2017/03/03/TDD-Harms-Architecture.html #tdd #design #architecture
 * [DONE] https://8thlight.com/blog/uncle-bob/2012/08/13/the-clean-architecture.html
+* [DONE] http://www.yegor256.com/2015/03/09/objects-end-with-er.html
