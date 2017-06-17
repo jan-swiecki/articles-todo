@@ -23,3 +23,4 @@
 * [DONE] https://8thlight.com/blog/uncle-bob/2012/08/13/the-clean-architecture.html
 * [DONE] http://www.yegor256.com/2015/03/09/objects-end-with-er.html
 * http://www.yegor256.com/2017/03/24/tdd-that-works.html
+* https://zigasajovic.github.io/Deep-Learning-and-Virtual-Tensor-Machines/
