@@ -24,3 +24,5 @@
 * [DONE] http://www.yegor256.com/2015/03/09/objects-end-with-er.html
 * http://www.yegor256.com/2017/03/24/tdd-that-works.html
 * https://zigasajovic.github.io/Deep-Learning-and-Virtual-Tensor-Machines/
+* [DONE] https://crypto.stackexchange.com/a/14367
+* https://www.quantamagazine.org/new-theory-cracks-open-the-black-box-of-deep-learning-20170921/
