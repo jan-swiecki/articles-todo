@@ -26,3 +26,4 @@
 * https://zigasajovic.github.io/Deep-Learning-and-Virtual-Tensor-Machines/
 * [DONE] https://crypto.stackexchange.com/a/14367
 * https://www.quantamagazine.org/new-theory-cracks-open-the-black-box-of-deep-learning-20170921/
+* https://arnhem.luminis.eu/pure-bliss-with-pure-functions-in-java/
