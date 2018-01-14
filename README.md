@@ -27,3 +27,5 @@
 * [DONE] https://crypto.stackexchange.com/a/14367
 * https://www.quantamagazine.org/new-theory-cracks-open-the-black-box-of-deep-learning-20170921/
 * https://arnhem.luminis.eu/pure-bliss-with-pure-functions-in-java/
+* [DONE] http://silverwraith.com/blog/2017/10/the-senior-engineers-guide-to-helping-others-make-decisions/
+* https://www.rose-hulman.edu/~bryan/googleFinalVersionFixed.pdf
